@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Supportpage',
-  tagline: 'Bring website to another level',
+  tagline: 'Bring website to another level 3',
   url: 'https://github.com',
   baseUrl: '/docusaurus-supportpage/',
   onBrokenLinks: 'throw',
